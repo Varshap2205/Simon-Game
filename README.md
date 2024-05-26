@@ -29,3 +29,6 @@ Visual and auditory feedback is crucial in a Simon game. CSS transitions and ani
 
 ## Screenshots
 ![Simon Game Screenshot](screenshot.png)
+
+##Demo Video
+
